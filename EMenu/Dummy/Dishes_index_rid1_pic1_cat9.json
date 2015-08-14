@@ -1,0 +1,1 @@
+{"Dishes":[{"Dish":{"id":"7","name":"\u7f8e\u5f0f\u5496\u5561","price":"22","description":"\u5c0f\u676f19\uff0c\u4e2d\u676f22\uff0c\u5927\u676f25","restaurant_id":"1","category_id":"9","logo_id":null},"Dish_picture":[{"id":"6","name":"coffee","hashcode":"ab49fdb8-9a7b-014b-69d4-0515cb9f3a4a","filepath":"http:\/\/192.168.169.104\/imageservice\/coffee.jpg","dish_id":"7"}]}]}
